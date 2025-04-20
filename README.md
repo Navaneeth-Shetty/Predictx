@@ -121,7 +121,7 @@ PredictiX/
 ![Predictors](https://raw.githubusercontent.com/hallowshaw/PredictiX/main/Screenshots/SS3.png)
 
 ### About Page
-![About](https://raw.githubusercontent.com/hallowshaw/PredictiX/main/Screenshots/SS4.png)
+
 
 
 ## Future Enhancements
